@@ -1,0 +1,112 @@
+
+
+Actual overlap count (based upon fasta file): 20032
+
+Kmer: 25
+True Positive: 2077
+False Positive: 3499
+False Negative: 17955
+True Negative: 228164
+
+Kmer: 24
+True Positive: 3024
+False Positive: 5810
+False Negative: 17018
+True Negative: 225843
+
+Kmer: 23
+True Positive: 4333
+False Positive: 9289
+False Negative: 15718
+True Negative: 222355
+Average Cluster Size: 3.34989
+Total Time in Seconds: 14.8984
+
+Kmer: 22
+True Positive: 5883
+False Positive: 14219
+False Negative: 14177
+True Negative: 217416
+Average Cluster Size: 3.35097
+Total Time in Seconds: 10.6376
+
+Kmer: 21
+True Positive: 8098
+False Positive: 21978
+False Negative: 11971
+True Negative: 209648
+Average Cluster Size: 3.35217
+Total Time in Seconds: 10.9666
+
+Kmer: 20
+True Positive: 10501
+False Positive: 34151
+False Negative: 9587
+True Negative: 198877
+Average Cluster Size: 3.35319
+Total Time in Seconds: 10.7601
+
+Kmer: 19
+True Positive: 12876
+False Positive: 50356
+False Negative: 7224
+True Negative: 182660
+Average Cluster Size: 3.35406
+Total Time in Seconds: 10.7047
+
+Kmer: 18
+True Positive: 14974
+False Positive: 70912
+False Negative: 5134
+True Negative: 162096
+Average Cluster Size: 3.35523
+Total Time in Seconds: 10.4813
+
+Kmer: 17
+True Positive: 16653
+False Positive: 95981
+False Negative: 3461
+True Negative: 137021
+Average Cluster Size: 3.35633
+Total Time in Seconds: 10.3321
+
+Kmer: 16
+True Positive: 17959
+False Positive: 120935
+False Negative: 2161
+True Negative: 112061
+Average Cluster Size: 3.35756
+Total Time in Seconds: 10.276
+
+Kmer: 15
+True Positive: 18578
+False Positive: 136667
+False Negative: 1556
+True Negative: 97026
+Average Cluster Size: 3.35849
+Total Time in Seconds: 10.16
+
+Kmer: 14
+True Positive: 19190
+False Positive: 157008
+False Negative: 948
+True Negative: 76681
+Average Cluster Size: 3.35949
+Total Time in Seconds: 10.4612
+
+Kmer: 13
+True Positive: 19578
+False Positive: 176303
+False Negative: 568
+True Negative: 57378
+Average Cluster Size: 3.35997
+Total Time in Seconds: 10.4074
+
+Kmer: 12
+True Positive: 19826
+False Positive: 196324
+False Negative: 327
+True Negative: 37350
+Average Cluster Size: 3.35949
+Total Time in Seconds: 9.32538
+

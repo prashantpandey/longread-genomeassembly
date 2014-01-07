@@ -1,0 +1,42 @@
+{ OVL
+Orn: C
+Reads: 232,237
+Score: 2778
+ahg: 622
+bhg: -391
+}
+{ OVL
+Orn: C
+Reads: 323,339
+Score: 3980
+ahg: 187
+bhg: -239
+}
+{ OVL
+Orn: C
+Reads: 570,605
+Score: 3375
+ahg: 248
+bhg: -1064
+}
+{ OVL
+Orn: N
+Reads: 298,355
+Score: 2399
+ahg: 3620
+bhg: 309
+}
+{ OVL
+Orn: C
+Reads: 323,339
+Score: 3980
+ahg: 187
+bhg: -239
+}
+{ OVL
+Orn: C
+Reads: 344,347
+Score: 2280
+ahg: 1097
+bhg: -5235
+}

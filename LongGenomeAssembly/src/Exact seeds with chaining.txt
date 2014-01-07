@@ -1,0 +1,118 @@
+Exact seed Results:
+{Chaining implimented}
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20183
+Kmer: 9
+True Positive: 20120
+False Positive: 223594
+False Negative: 63
+True Negative: 11477
+Average Cluster Size: 3.28757
+Total Time in Seconds: 9.76465
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20180
+Kmer: 10
+True Positive: 20003
+False Positive: 203082
+False Negative: 177
+True Negative: 31992
+Average Cluster Size: 3.34357
+Total Time in Seconds: 11.227
+
+Actual overlap count (based upon fasta file): 20169
+Kmer: 11
+True Positive: 19756
+False Positive: 162252
+False Negative: 413
+True Negative: 72833
+Average Cluster Size: 3.35851
+Total Time in Seconds: 13.9303
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20162
+Kmer: 12
+True Positive: 19322
+False Positive: 94780
+False Negative: 840
+True Negative: 140312
+Average Cluster Size: 3.3619
+Total Time in Seconds: 15.9231
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20155
+Kmer: 13
+True Positive: 18748
+False Positive: 36150
+False Negative: 1407
+True Negative: 198949
+Average Cluster Size: 3.36206
+Total Time in Seconds: 16.7225
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20143
+Kmer: 15
+True Positive: 17167
+False Positive: 3718
+False Negative: 2976
+True Negative: 231393
+Average Cluster Size: 3.36055
+Total Time in Seconds: 16.7402
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20136
+Kmer: 16
+True Positive: 16001
+False Positive: 1297
+False Negative: 4135
+True Negative: 233821
+Average Cluster Size: 3.35949
+Total Time in Seconds: 17.2219
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20130
+Kmer: 17
+True Positive: 14558
+False Positive: 588
+False Negative: 5572
+True Negative: 234536
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20124
+Kmer: 18
+True Positive: 12765
+False Positive: 245
+False Negative: 7359
+True Negative: 234885
+Average Cluster Size: 3.35712
+Total Time in Seconds: 17.4156
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20104
+Kmer: 20
+True Positive: 8918
+False Positive: 71
+False Negative: 11186
+True Negative: 235079
+Average Cluster Size: 3.35509
+Total Time in Seconds: 17.682
+
+Sequestering Done..!!!
+Actual overlap count (based upon fasta file): 20065
+Kmer: 25
+True Positive: 1959
+False Positive: 3
+False Negative: 18106
+True Negative: 235186
+Average Cluster Size: 3.3495
+Total Time in Seconds: 21.725
+
+
+
+
+
+
+
+
+

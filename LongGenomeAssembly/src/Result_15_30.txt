@@ -1,0 +1,62 @@
+================================================================================
+                         Read Simulator for Long Reads
+
+Sequencing Technology : pacbio
+FASTA file path : small/ref.fa
+Reads : mean(3000bp) distribution(exp)
+Coverage : mean(30x)
+Mutation (Substitution) : mean(1.0%)
+Mutation (Insertion)    : mean(12.0%)
+Mutation (Deletion)     : mean(2.0%)
+================================================================================
+[INFO:003] small/reads.2k.30x.fa are created
+[INFO:001] 70 bases per line, prob of reads is 0.01
+[INFO:007] All bases are processed. No more lines. Sucessfully finished!
+[INFO:010] Total 715 reads are generated; 715 is forward, 0 is reversed
+
+
+Actual overlap count (based upon fasta file): 19172
+
+Clusters with at least 2 reads:
+True Positive: 16690
+False Positive: 154894
+False Negative: 2505
+True Negative: 66381
+Average Cluster Size: 1.63424
+Total Time in Seconds: 6.24828
+
+Clusters with at least 3 reads:
+True Positive: 16337
+False Positive: 148882
+False Negative: 2856
+True Negative: 72395
+Average Cluster Size: 1.63424
+Total Time in Seconds: 6.29303
+
+Clusters with at least 4 reads:
+True Positive: 15386
+False Positive: 132868
+False Negative: 3802
+True Negative: 88414
+Average Cluster Size: 1.63424
+Total Time in Seconds: 6.30177
+
+Clusters with at least 5 reads:
+True Positive: 13132
+False Positive: 103554
+False Negative: 6050
+True Negative: 117734
+Average Cluster Size: 1.63424
+Total Time in Seconds: 6.19905
+
+Clusters with at least 6 reads:
+True Positive: 9115
+False Positive: 63191
+False Negative: 10061
+True Negative: 158103
+Average Cluster Size: 1.63424
+Total Time in Seconds: 6.20383
+
+
+
+
